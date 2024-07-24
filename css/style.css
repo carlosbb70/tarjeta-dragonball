@@ -95,8 +95,8 @@ input[type="checkbox"] {
 }
 
 .character .image .status {
-    /*object-fit: cover;
-    margin:  0px 0px;*/
+    object-fit: cover;
+    margin:  0px 0px;
     background-color: rgb(114, 132, 148);
     border-radius: 20px 20px 0px 0px;
     

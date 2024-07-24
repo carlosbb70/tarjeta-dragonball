@@ -43,8 +43,6 @@ async function dragonball() {
                     <p>${result.description}</p>
                 </div>
             </div>
-            <input type="checkbox" id="toggleDiv">
-            
         </div>
         `
     });
